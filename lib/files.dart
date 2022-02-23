@@ -16,7 +16,7 @@ const List<String> imageFormats = [
   '.webp',
   '.tif',
   '.heic',
-  'unsplash.com'
+  'https://images.unsplash.com'
 ];
 const http = 'http';
 
