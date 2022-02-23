@@ -1,4 +1,3 @@
-
 const List<String> videoFormats = [
   '.mp4',
   '.mov',
@@ -16,7 +15,8 @@ const List<String> imageFormats = [
   '.gif',
   '.webp',
   '.tif',
-  '.heic'
+  '.heic',
+  'unsplash.com'
 ];
 const http = 'http';
 
